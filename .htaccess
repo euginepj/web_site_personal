@@ -1,0 +1,3 @@
+Options +FollowSymLinks
+RewriteEngine On
+RewriteRule ^doctorjulioreyes.com.*$ http://www.doctorjulioreyes.com/ [R=301,L]
